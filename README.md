@@ -1,5 +1,9 @@
 ### 给EUserv IPV6添加WARP，白嫖WARP高速通道！
 
+甬哥YouTube频道：https://bit.ly/3zGc8fb
+
+甬哥电报群：https://bit.ly/3jy5K46
+
 ### IPV6 only VPS添加WARP的好处：
 
 1：使只有IPV6的VPS获取访问IPV4的能力，套上WARP的ip,变成双栈VPS！
