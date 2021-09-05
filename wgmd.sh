@@ -298,7 +298,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ygkkk/WarpEUser
 }
 
 function up6(){
-echo -e nameserver 2a00:1098:2c::1 > /etc/resolv.conf
+echo -e "search blue.kundencontroller.de\noptions rotate\nnameserver 2001:67c:2b0::4\nnameserver 2001:67c:2b0::6" > /etc/resolv.conf
 wget -6 -N --no-check-certificate https://raw.githubusercontent.com/ygkkk/WarpEUserv/main/wgmd.sh && chmod +x wgmd.sh && ./wgmd.sh
 }
 
